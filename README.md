@@ -1,7 +1,7 @@
-# Nacional2024Estaduais
+# Seletivas Estaduais 2024 
 
 
-- Seletivas PARAÍBA (PB)
+- _Seletivas PARAÍBA (PB)_
 
 Broken (Batalha do Coqueiral - João Pessoa)
 
