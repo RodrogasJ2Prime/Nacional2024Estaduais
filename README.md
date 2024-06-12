@@ -145,4 +145,36 @@ ED (Batalha do Cristo - Cariri)
 
 # - _Seletivas RORAIMA (RR)_
 
+(Batalha do PT - Boa Vista)
+
+(Batalha da Pista - Boa Vista)
+
+15/06 - 19h (Batalha do Extremo - Rorainópolis)
+
+22/06 - 19h30 (Batalha do Mirante - Boa Vista)
+
+25/06 - 19h (Batalha do Cidadão - Boa Vista)
+
+28/06 - 19h30 (Batalha da Lua - Bonfim)
+
+04/07 - 19h (Batalha do Nova - Boa Vista)
+
+06/07 - 19h30 (Batalha do Kanaimé - Cantá)
+
+10/07 - 19h (Batalha do Garrincha - Boa Vista)
+
+20/07 - 19h30 (Batalha do Extremo - Rorainópolis)
+
+21/07 - 18h (Batalha do Satélite - Boa Vista)
+
+04/08 - 18h (Batalha do Satélite - Boa Vista)
+
+10/08 - 19h (Batalha da Fronteira - Bonfim)
+
+17/08 - 19h (Batalha do Extremo - Rorainópolis)
+
+23/08 - 19h30 (Batalha do PT - Boa Vista)
+
+24/08 - 18h  (Batalha do Mirante - Boa Vista)
+
 ----------------------------------------------------
