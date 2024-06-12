@@ -1,7 +1,7 @@
 # Seletivas Estaduais 2024 
 
 
-- _Seletivas PARAÍBA (PB)_
+# - _Seletivas PARAÍBA (PB)_
 
 Broken (Batalha do Coqueiral - João Pessoa)
 
@@ -37,7 +37,7 @@ Igor-Z (Batalha do Cordel - Queimadas)
 
 ----------------------------------------------------
 
-- _Seletivas PERNAMBUCO (PE)_
+# - _Seletivas PERNAMBUCO (PE)_
 
 Vinicius ZN (Batalha da Grade - Vitória de São Antão)
 
@@ -73,7 +73,7 @@ Acuca (Batalha da Cent - Timbaúba)
 
 ----------------------------------------------------
 
-- _Seletivas AMAZONAS (AM)_
+# - _Seletivas AMAZONAS (AM)_
 
 Hope (Batalha do Vale - Manaus)
 
@@ -107,10 +107,42 @@ Menor MC (Batalha dos Caixa Baixa - Manaus)
 
 ----------------------------------------------------
 
-- _Seletivas CEARÁ (CE)_
+# - _Seletivas CEARÁ (CE)_
+
+Clauber (Batalha do Asfalto - Caucaia)
+
+Iury (Estação Hip Hop - Maracanaú)
+
+Martin (Batalha do Polo - Pacatuba)
+
+Dantaz (Batalha da 1ª Capital - Aquiraz)
+
+DR (Batalha do Relógio - Cariri)
+
+Snart (Cururu Skate e Rap - Fortaleza)
+
+MCELL (Free Street Rap - Eusébio)
+
+ED (Batalha do Cristo - Cariri)
+
+13/06 - 19h30 (Batalha do Curió - Fortaleza)
+
+14/06 - 19h30 (Batalha do Hannover - Sobral)
+
+18/06 - 19h30 (Batalha do Beirahell - Fortaleza)
+
+21/06 - 19h30 (Batalha da Semi - Fortaleza)
+
+21/06 - 19h30 (Batalha do Cangaço - Cariri)
+
+23/06 - 19h30 (Nós Por Nós - Horizonte)
+
+25/06 - 19h30 (Esperança Hip Hop - Fortaleza)
+
+29/06 - 19h30 (Batalha do Polo/Conjunto Ceará - Fortaleza
 
 ----------------------------------------------------
 
-- _Seletivas RORAIMA (RR)_
+# - _Seletivas RORAIMA (RR)_
 
 ----------------------------------------------------
