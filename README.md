@@ -125,7 +125,7 @@ MCELL (Free Street Rap - Eusébio)
 
 ED (Batalha do Cristo - Cariri)
 
-13/06 - 19h30 (Batalha do Curió - Fortaleza)
+Luucazin (Batalha do Curió - Fortaleza)
 
 14/06 - 19h30 (Batalha do Hannover - Sobral)
 
