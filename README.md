@@ -43,7 +43,7 @@ Vinicius ZN (Batalha da Grade - Vitória de São Antão)
 
 Acuca (Batalha da Cent - Timbaúba)
 
-14/06 - 16h (Batalha do Capibaribe - Limoeiro)
+Cabeleira (Batalha do Capibaribe - Limoeiro)
 
 15/06 - 19h (Batalha dos Bruxos - Arco Verde)
 
