@@ -127,7 +127,7 @@ ED (Batalha do Cristo - Cariri)
 
 Luucazin (Batalha do Curió - Fortaleza)
 
-14/06 - 19h30 (Batalha do Hannover - Sobral)
+DG (Batalha do Hannover - Sobral)
 
 18/06 - 19h30 (Batalha do Beirahell - Fortaleza)
 
