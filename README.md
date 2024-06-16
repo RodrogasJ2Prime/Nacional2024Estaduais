@@ -19,7 +19,7 @@ Robsom (Batalha do Bacurau - Campina Grande)
 
 Igor-Z (Batalha do Cordel - Queimadas)
 
-14/06 - 18h (Batalha da BR - João Pessoa)
+Rank (Batalha da BR - João Pessoa)
 
 28/06 - 18h (Batalha do Pedrega - Campina Grande)
 
@@ -45,7 +45,7 @@ Acuca (Batalha da Cent - Timbaúba)
 
 Cabeleira (Batalha do Capibaribe - Limoeiro)
 
-15/06 - 19h (Batalha dos Bruxos - Arco Verde)
+Rugal (Batalha dos Bruxos - Arco Verde)
 
 20/06 - 19h30 (Batalha de Porto - Ipojuca)
 
@@ -149,7 +149,7 @@ DG (Batalha do Hannover - Sobral)
 
 (Batalha da Pista - Boa Vista)
 
-15/06 - 19h (Batalha do Extremo - Rorainópolis)
+15/06 - 19h (Batalha do Extremo - Rorainópolis) - sem informações 
 
 22/06 - 19h30 (Batalha do Mirante - Boa Vista)
 
