@@ -81,7 +81,7 @@ Xavier (Batalha da Malta - Manaus)
 
 Menor MC (Batalha dos Caixa Baixa - Manaus)
 
-18/06 - 19h (Batalha do Leme - Manaus)
+18/06 - 19h (Batalha do Leme - Manaus) - sem informações 
 
 23/06 - 19h30 (Batalha do Guaraná - Maués)
 
@@ -129,7 +129,7 @@ Luucazin (Batalha do Curió - Fortaleza)
 
 DG (Batalha do Hannover - Sobral)
 
-18/06 - 19h30 (Batalha do Beirahell - Fortaleza)
+18/06 - 19h30 (Batalha do Beirahell - Fortaleza) - ironicamente sem informações)
 
 21/06 - 19h30 (Batalha da Semi - Fortaleza)
 
