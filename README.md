@@ -178,3 +178,37 @@ DG (Batalha do Hannover - Sobral)
 24/08 - 18h  (Batalha do Mirante - Boa Vista)
 
 ----------------------------------------------------
+
+# - _Seletivas ALAGOAS (AL)_
+
+19/06 - 18h (Batalha Marginal - Maceió)
+
+21/06 - 18h (Batalha PST - Maceió)
+
+22/06 - 15h (Batalha na Vera - Maceió)
+
+22/06 - 18h (Batalha do Bosque - Arapiraca)
+
+28/06 - 14h (Batalha da Matriz - São Miguel dos Campos)
+
+07/07 - 16h (Batalha Marginal - Maceió)
+
+11/07 - 18h (Batalha PJS - Maceió)
+
+13/07 - 15h (Batalha na Vera - Maceió)
+
+20/07 - 14h (Batalha da Matriz - São Miguel dos Campos)
+
+24/07 - 18h (Batalha Marginal - Maceió)
+
+28/07 - 17h (Batalha das Tribos - Palmeira dos Índios)
+
+03/08 - 18h (Batalha do Bosque - Arapiraca)
+
+04/08 - 16h (Batalha Marginal h Maceió)
+
+21/08 - 18h (Batalha Marginal - Maceió)
+
+25/08 - 17h (Batalha das Tribos - Palmeira dos Índios)
+
+31/08 - 14h (Batalha da Oeste - Maceió)
