@@ -212,3 +212,39 @@ DG (Batalha do Hannover - Sobral)
 25/08 - 17h (Batalha das Tribos - Palmeira dos Índios)
 
 31/08 - 14h (Batalha da Oeste - Maceió)
+
+----------------------------------------------------
+
+# - _Seletivas RIO DE JANEIRO (RJ)_
+
+02/07 - 19h (Batalha do Coliseu - Rio de Janeiro)
+
+18/07 - 20h (Batalha da Helianto - Rio de Janeiro)
+
+21/07 - 19h (Roda Cultural Canta Teresa - Rio de Janeiro)
+
+22/07 - 19h30 (Roda Cultural Pacstão - Rio de Janeiro)
+
+24/07 - 20h (Batalha do Tanque - São Gonçalo)
+
+27/07 - 19h (Batalha da Marina - Niterói)
+
+01/08 - 19h (Roda Cultural Cidade de Deus - Rio de Janeiro)
+
+03/08 - 17h (Roda Cultural de Volta Redonda - Volta Redonda)
+
+11/08 - 19h (Manifestação Cultural de Rimas - Campos dos Goitacazes)
+
+11/08 - 19h30 (Roda Cultural da Rocinha - Rio de Janeiro)
+
+15/08 - 19h (Roda Cultural Sávio de Oliveira - Maricá)
+
+16/08 - 19h (Independência BXD - Duque de Caxias)
+
+17/08 - 19h (Batalha da TJK - Teresópolis)
+
+18/08 - 13h (Batalha da Foice - Itaboraí)
+
+21/08 - 19h (Batalha do Forte - Cabo Frio
+
+24/08 - 19h (Roda Cultural Mageense - Magé)
