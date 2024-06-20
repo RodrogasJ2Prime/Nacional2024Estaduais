@@ -181,7 +181,7 @@ Exodia (Batalha do Beirahell - Fortaleza)
 
 # - _Seletivas ALAGOAS (AL)_
 
-19/06 - 18h (Batalha Marginal - Maceió)
+Meni (Batalha Marginal - Maceió)
 
 21/06 - 18h (Batalha PST - Maceió)
 
