@@ -149,7 +149,7 @@ Exodia (Batalha do Beirahell - Fortaleza)
 
 (Batalha da Pista - Boa Vista)
 
-15/06 - 19h (Batalha do Extremo - Rorainópolis) - sem informações 
+15/06 - 19h (Batalha do Extremo - Rorainópolis) - oficialmente sem informações há 5 dias
 
 22/06 - 19h30 (Batalha do Mirante - Boa Vista)
 
