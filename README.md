@@ -21,7 +21,7 @@ Igor-Z (Batalha do Cordel - Queimadas)
 
 Rank (Batalha da BR - João Pessoa)
 
-28/06 - 18h (Batalha do Pedrega - Campina Grande)
+28/06 - 18h (Batalha do Pedrega - Campina Grande) - sem informaçõesKKKKKKKKKK
 
 06/07 - 19h (Batalha da Paz - João Pessoa)
 
@@ -248,3 +248,39 @@ Meni (Batalha Marginal - Maceió)
 21/08 - 19h (Batalha do Forte - Cabo Frio
 
 24/08 - 19h (Roda Cultural Mageense - Magé)
+
+----------------------------------------------------
+
+# - _Seletivas TOCANTINS (TO)_
+
+22/06 - 18h (Seletiva Projeto42 - Palmas)
+
+25/06 - 19h (Batalha do Ginásio - Palmas)
+
+30/06 - 17h (Batalha do Cimba - Araguaína)
+
+04/07 - 19h (Batalha das Mil - Palmas)
+
+05/07 - 19h (Batalha do Indígena - Palmas)
+
+07/07 - 19h (Batalha do Cultural - Palmas)
+
+14/07 - 19h - Batalha do Norte - Gurupí)
+
+17/07 - 19h - (Batalha do Girassol - Palmas)
+
+19/07 - 19h - (Batalha do Noroeste - Araguaína)
+
+20/07 - 19h - (Seletiva Projeto42 Taquari - Palmas)
+
+27/07 - 19h - Batalha do Norte (Gurupí)
+
+03/08 - 19h - (Batalha do Cimba - Araguaína)
+
+04/08 - 19h - (Batalha do Cultural - Palmas)
+
+10/08 - 19h - (Batalha do Norte - Gurupí)
+
+11/08 - 19h - (Seletiva Porto Nacional - Palmas)
+
+12/08 - 19h - (Batalha da Vila - Palmas)
