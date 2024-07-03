@@ -273,7 +273,7 @@ Meni (Batalha Marginal - Maceió)
 
 20/07 - 19h - (Seletiva Projeto42 Taquari - Palmas)
 
-27/07 - 19h - Batalha do Norte (Gurupí)
+27/07 - 19h - (Batalha do Norte (Gurupí)
 
 03/08 - 19h - (Batalha do Cimba - Araguaína)
 
