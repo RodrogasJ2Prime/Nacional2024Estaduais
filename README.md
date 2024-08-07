@@ -284,3 +284,9 @@ Meni (Batalha Marginal - Maceió)
 11/08 - 19h - (Seletiva Porto Nacional - Palmas)
 
 12/08 - 19h - (Batalha da Vila - Palmas)
+
+----------------------------------------------------
+
+# - _Seletivas PARÁ (PA)_
+
+01/08 - 20h - (Regional Batalha do Caeté - Bragança/Caeté)
