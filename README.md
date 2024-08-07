@@ -75,35 +75,35 @@
 
 # - _Seletivas AMAZONAS (AM)_
 
-Hope (Batalha do Vale - Manaus)
+- Hope (Batalha do Vale - Manaus)
 
-Xavier (Batalha da Malta - Manaus)
+- Xavier (Batalha da Malta - Manaus)
 
-Menor MC (Batalha dos Caixa Baixa - Manaus)
+- Menor MC (Batalha dos Caixa Baixa - Manaus)
 
-Blink (Batalha do Leme - Manaus)
+- Blink (Batalha do Leme - Manaus)
 
-23/06 - 19h30 (Batalha do Guaraná - Maués)
+- Wb16 (Batalha do Guaraná - Maués)
 
-27/06 - 19h20 (Batalha do Lado Leste - Manaus)
+- Onec (Batalha do Lado Leste - Manaus)
 
-29/06 - 17h (Batalha das Cachoeiras - Presidente Figueiredo)
+29/06 - 17h (Batalha das Cachoeiras - Presidente Figueiredo) - sem informações 
 
-29/06 - 18h (Batalha dos Bares - Nanaus)
+- Benevides (Batalha dos Bares - Nanaus)
 
-01/07 - 18h (Batalha da Pista - Itacoatiara)
+- JF (Batalha da Pista - Itacoatiara)
 
-06/07 - 19h (Batalha do BK - Manaus)
+06/07 - 19h (Batalha do BK - Manaus) - sem informações 
 
-13/07 - 19h (Batalha da Diversidade - Manaus)
+- RK MC (Batalha da Diversidade - Manaus)
 
-14/07 - 19h30 (Seletiva Regional de Tefé - Tefé)
+14/07 - 19h30 (Seletiva Regional de Tefé - Tefé) - sem informações 
 
-30/07 - 19h (Batalha da Onça - Manaus)
+- Big Xang (Batalha da Onça - Manaus)
 
-04/08 - 17h (Batalha do Passarinho - Manaus)
+- Pedro (Batalha do Passarinho - Manaus)
 
-10/08 - 17h (Roda Cultural da Norte - Manaus)
+10/08 - 17h (Roda Cultural da Norte - Manaus) - sem informações 
 
 ----------------------------------------------------
 
