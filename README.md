@@ -3,67 +3,67 @@
 
 # - _Seletivas PARAÍBA (PB)_
 
-Broken (Batalha do Coqueiral - João Pessoa)
+- Broken (Batalha do Coqueiral - João Pessoa)
 
-Spawn (Batalha das Quebradas - Campina Grande)
+- Spawn (Batalha das Quebradas - Campina Grande)
 
-MV (Batalha da ZO - Santa Rita)
+- MV (Batalha da ZO - Santa Rita)
 
-Akaio (Batalha da Concha - Patos)
+- Akaio (Batalha da Concha - Patos)
 
-Clow (Batalha da Preguiça - Rio Tinto)
+- Clow (Batalha da Preguiça - Rio Tinto)
 
-Tatsuo (Batalha da Juventude - Guarabira)
+- Tatsuo (Batalha da Juventude - Guarabira)
 
-Robsom (Batalha do Bacurau - Campina Grande)
+- Robsom (Batalha do Bacurau - Campina Grande)
 
-Igor-Z (Batalha do Cordel - Queimadas)
+- Igor-Z (Batalha do Cordel - Queimadas)
 
-Rank (Batalha da BR - João Pessoa)
+- Rank (Batalha da BR - João Pessoa)
 
-Papi (Batalha do Pedrega - Campina Grande)
+- Papi (Batalha do Pedrega - Campina Grande)
 
-Druh (Batalha da Paz - João Pessoa)
+- Druh (Batalha da Paz - João Pessoa)
 
-Bené (Batalha do Half - Cabedelo)
+- Bené (Batalha do Half - Cabedelo)
 
-Mike (Batalha do Leblon - Cajazeiras)
+- Mike (Batalha do Leblon - Cajazeiras)
 
-Afros (Batalha do Repente - Monteiro)
+- Afros (Batalha do Repente - Monteiro)
 
-Kitket (Batalha da ZL - Campina Grande)
+- Kitket (Batalha da ZL - Campina Grande)
 
-Drope (Batalha da Caixa - Cuité)
+- Drope (Batalha da Caixa - Cuité)
 
 ----------------------------------------------------
 
 # - _Seletivas PERNAMBUCO (PE)_
 
-Vinicius ZN (Batalha da Grade - Vitória de São Antão)
+- Vinicius ZN (Batalha da Grade - Vitória de São Antão)
 
-Acuca (Batalha da Cent - Timbaúba)
+- Acuca (Batalha da Cent - Timbaúba)
 
-Cabeleira (Batalha do Capibaribe - Limoeiro)
+- Cabeleira (Batalha do Capibaribe - Limoeiro)
 
-Rugal (Batalha dos Bruxos - Arco Verde)
+- Rugal (Batalha dos Bruxos - Arco Verde)
 
-20/06 - 19h30 (Batalha de Porto - Ipojuca)
+- Jason (Batalha de Porto - Ipojuca)
 
-30/06 - 15h30 (Batalha de MF - Cabo)
+- Kim MC (Batalha de MF - Cabo)
 
-04/07 - 19h (Batalha na Várzea - Recife)
+- Ninja (Batalha na Várzea - Recife)
 
-07/07 - 17h (Batalha da Cruz - Igarassu)
+- Neto (Batalha da Cruz - Igarassu)
 
-13/07 18h30 (Batalha dos Nômades - Surubim)
+- HZ (Batalha dos Nômades - Surubim)
 
-14/07 - 16h (Batalha da Jangamaica - Paulista)
+- Spinelli (Batalha da Jangamaica - Paulista)
 
-15/07 - 19h30 (Batalha da Igrejinha - Caruaru)
+- Samurai MC (Batalha da Igrejinha - Caruaru)
 
-20/07 - 19h (Batalha do Estacionamento - Jaboatão dos Guararapes)
+- Hogue (Batalha do Estacionamento - Jaboatão dos Guararapes)
 
-21/07 - 17h (Batalha da Resistência - Garanhuns)
+- Otzi (Batalha da Resistência - Garanhuns)
 
 27/07 - 18h (Batalha da Bandeira - Jaboatão dos Guararapes)
 
