@@ -65,11 +65,11 @@
 
 - Otzi (Batalha da Resistência - Garanhuns)
 
-27/07 - 18h (Batalha da Bandeira - Jaboatão dos Guararapes)
+- El Diablo (Batalha da Bandeira - Jaboatão dos Guararapes)
 
-28/07 - 14h (Batalha da Duque - Goiana)
+- Professor (Batalha da Duque - Goiana)
 
-02/08 - 20h (Batalha da Escadaria - Recife)
+- Tedy (Batalha da Escadaria - Recife)
 
 ----------------------------------------------------
 
