@@ -320,3 +320,40 @@ Meni (Batalha Marginal - Maceió)
 - 14/09 - 19H30 - Regional do Guamá - Batalha do Estrela (Castanhal - Guamá)
 
 - 14/09 - 16H - Seletiva de Belém MCs (Belém - Guajará)
+
+
+----------------------------------------------------
+
+# - _Seletivas MATO GROSSO (MT)_
+
+- 07/07 - 16H30 - @batalhadocaranda1 (Sinop)
+
+- 28/07 - 19H30 @vdr_lrv (Lucas do Rio Verde)
+
+- 28/07 - 19H - @batalha_da_hakkai (Sorriso)
+
+- 01/08 - 20H - @batalhadaalencastro (Cuiabá)
+
+- 10/08 - 19H30 - @batalhadop90 (Cuiabá)
+
+- 17/08 - 20H - @batalhadaduquecnc_ofc (Cáceres)
+
+- 18/08 - 18H30 - @bdm_batalhadomonte (Rondonópolis)
+
+- 24/08 - 17H - @querenciarapbattle (Querência)
+
+- 25/08 - 19H30 - @batalhadotj / @batalhadojota065 (Cuiabá)
+
+- 01/09 - 19H - @batalha.das.minas (Cuiabá)
+
+- 04/09 - 19H - @batalhadomandys (Cuiabá)
+
+- 11/09 - 19H - @batalhadoipase (Várzea Grande)
+
+- 13/09 - 20H - @batalhapulonabala (Cuiabá)
+
+- 14/09 - 20H - @batalhadapista_pva (Primavera do Leste)
+
+- 20/09 - 21H - @batalhaduralf (Barra do Garças)
+
+- 30/09 - 20H - @batalhadovoluntario (Cuiabá)
