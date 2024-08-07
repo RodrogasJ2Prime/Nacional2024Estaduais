@@ -21,19 +21,19 @@ Igor-Z (Batalha do Cordel - Queimadas)
 
 Rank (Batalha da BR - João Pessoa)
 
-28/06 - 18h (Batalha do Pedrega - Campina Grande) - sem informaçõesKKKKKKKKKK
+Papi (Batalha do Pedrega - Campina Grande)
 
-06/07 - 19h (Batalha da Paz - João Pessoa)
+Druh (Batalha da Paz - João Pessoa)
 
-10/07 - 19h (Batalha do Half - Cabedelo)
+Bené (Batalha do Half - Cabedelo)
 
-14/07 - 19h (Batalha do Leblon - Cajazeiras)
+Mike (Batalha do Leblon - Cajazeiras)
 
-19/07 - 18h (Batalha do Repente - Monteiro)
+Afros (Batalha do Repente - Monteiro)
 
-28/07 - 18h (Batalha da ZL - Campina Grande)
+Kitket (Batalha da ZL - Campina Grande)
 
-03/08 - 19h (Batalha da Caixa - Cuité)
+Drope (Batalha da Caixa - Cuité)
 
 ----------------------------------------------------
 
