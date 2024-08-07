@@ -1,8 +1,7 @@
 # Seletivas Estaduais 2024 
 
 
-# - _Seletivas PARAÍBA (PB)_
-# _100%_
+# - _Seletivas PARAÍBA (PB) - 100%_
 
 - Broken (Batalha do Coqueiral - João Pessoa)
 
