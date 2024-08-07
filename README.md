@@ -289,4 +289,34 @@ Meni (Batalha Marginal - Maceió)
 
 # - _Seletivas PARÁ (PA)_
 
-01/08 - 20h - (Regional Batalha do Caeté - Bragança/Caeté)
+01/08 - 20H - Regional Batalha do Caeté (Bragança - Caeté)
+
+- 03/08 - 19H - Regional do Tapajós - Batalha do Coreto (Aveiro - Tapajós)
+
+- 10/08 19H30 - Seletiva Estadual Afirmativa 093 (Altamira - Xingu)
+
+- 17/08 - 16H20 - Duelo Xingu / AltasBatalha (Altamira - Xingu)
+
+- 17/08 - 19H - Regional Lago de Tucuruí / BDP (Itupiranga - Lago de tucuruí)
+
+- 23/08 - 19H - Seletiva Estadual Afirmativa 094 (Marabá - Carajás)
+
+- 24/08 - 19H30 - Regional Carajás Norte - Batalha da VM (Marabá - Carajás)
+
+- 24/08 - 19H - Regional Rio Capim - Batalha do Jardela (Paragorimas - Rio Capim)
+
+- 31/08 - 19H - Seletiva Ananituba (Ananindeua - Guajará)
+
+- 06/09 - 19H - Inter-Regional Carajás Sul + Araguaia (Parauapebas - Carajás)
+
+- 08/09 - 19H30 - Seletiva Battle Girl Power (Belém - Guajará)
+
+- 10/09 - 19H30 - Seletiva Ground Delxs, (Belém - Guajará)
+
+- 14/09 - 18H30 - Rima Santarém (Santarém - Baixo Amazonas)
+
+- 14/09 - 18H - Regional do Baixo Tocantins - Vila dos Cabanos (Barcarena - Tocantins)
+
+- 14/09 - 19H30 - Regional do Guamá - Batalha do Estrela (Castanhal - Guamá)
+
+- 14/09 - 16H - Seletiva de Belém MCs (Belém - Guajará)
