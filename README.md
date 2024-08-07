@@ -37,7 +37,7 @@
 
 ----------------------------------------------------
 
-# - _Seletivas PERNAMBUCO (PE)_
+# - _Seletivas PERNAMBUCO (PE) - 100%_
 
 - Vinicius ZN (Batalha da Grade - Vitória de São Antão)
 
